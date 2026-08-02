@@ -1,0 +1,33 @@
+{
+  "name" : "Middle Earth",
+  "version" : "1.0.0",
+  "generatedAt" : "2026-08-02T17:26:12.153678681Z",
+  "files" : [ {
+    "path" : "mods/iris-neoforge-1.11.2+mc26.2.jar",
+    "sha256" : "d30e423e9bc052301a8f98c8043e2af27ca9bda1e11538e550074b4da5c8d69e",
+    "size" : 2751198,
+    "url" : "https://cdn.modrinth.com/data/YL57xq9U/versions/bXt6zsZT/iris-neoforge-1.11.2%2Bmc26.2.jar",
+    "modrinthProjectId" : "YL57xq9U",
+    "modrinthVersionId" : "bXt6zsZT"
+  }, {
+    "path" : "mods/jei-26.2-neoforge-30.15.0.120.jar",
+    "sha256" : "277b0762e45486538476996128250429b8b1fd9d94eb3c409ed36fd476d4247f",
+    "size" : 1667527,
+    "url" : "https://cdn.modrinth.com/data/u6dRKJwZ/versions/F3ICnhBo/jei-26.2-neoforge-30.15.0.120.jar",
+    "modrinthProjectId" : "u6dRKJwZ",
+    "modrinthVersionId" : "F3ICnhBo"
+  }, {
+    "path" : "mods/lotr-26.2-1.0.0.jar",
+    "sha256" : "25386487a67cfc72eaff379d24ff38f0a997852e7185c8ed0cb08862928e9d08",
+    "size" : 8334259,
+    "url" : "https://raw.githubusercontent.com/dogtreat268/lotr-pack/main/mods/lotr-26.2-1.0.0.jar"
+  }, {
+    "path" : "mods/sodium-neoforge-0.9.2-alpha.3+mc26.2.jar",
+    "sha256" : "971c9a90ca01ae0f699572b0638e52b48151fc7dc5028569bfbfc1e83533b246",
+    "size" : 1204638,
+    "url" : "https://cdn.modrinth.com/data/AANobbMI/versions/CAZAVb0n/sodium-neoforge-0.9.2-alpha.3%2Bmc26.2.jar",
+    "modrinthProjectId" : "AANobbMI",
+    "modrinthVersionId" : "CAZAVb0n"
+  } ],
+  "schemaVersion" : 1
+}
