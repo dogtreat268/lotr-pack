@@ -1,12 +1,11 @@
 # Middle Earth — pack files
 
-Download host for [pack-sync](https://github.com/dogtreat268/lotr-pack): the
-`manifest.json` every player's launcher reads, and the one jar that has to be
-hosted rather than fetched from Modrinth.
+Download host for the pack: the `manifest.json` every player's launcher reads,
+and the one jar that has to be hosted rather than fetched from Modrinth.
 
-Everything else in the pack — Iris, JEI, Sodium — resolves to Modrinth's CDN, so
-it is not duplicated here. Only The Lord of the Rings mod lives in `mods/`,
-because Modrinth has never heard of it.
+Everything else in the pack resolves to Modrinth's CDN, so it is not duplicated
+here. Only The Lord of the Rings mod lives in `mods/`, because Modrinth has
+never heard of it.
 
 Nothing here is edited by hand. Both files are published from the mod's build
 repo with `tools/publish.sh --push`, which builds the jar, installs it into the
