@@ -1,7 +1,7 @@
 {
   "name" : "Middle Earth",
   "version" : "1.0.0",
-  "generatedAt" : "2026-08-02T18:50:47.598481605Z",
+  "generatedAt" : "2026-08-03T01:24:54.052759105Z",
   "files" : [ {
     "path" : "mods/jei-26.2-neoforge-30.15.0.120.jar",
     "sha256" : "277b0762e45486538476996128250429b8b1fd9d94eb3c409ed36fd476d4247f",
@@ -10,10 +10,10 @@
     "modrinthProjectId" : "u6dRKJwZ",
     "modrinthVersionId" : "F3ICnhBo"
   }, {
-    "path" : "mods/lotr-26.2-1.0.1.jar",
-    "sha256" : "aef8f39ce86403b3a0054efb1fd4f43399de5e2bdc40234642379980a1db3bb4",
-    "size" : 8335818,
-    "url" : "https://github.com/dogtreat268/lotr-pack/releases/download/v1.0.1/lotr-26.2-1.0.1.jar"
+    "path" : "mods/lotr-26.2-1.0.2.jar",
+    "sha256" : "27bed049e68083efc6fca16af15f862d18ce647d2b0bf3f754a0bb2f823226b0",
+    "size" : 8732192,
+    "url" : "https://github.com/dogtreat268/lotr-pack/releases/download/v1.0.2/lotr-26.2-1.0.2.jar"
   } ],
   "schemaVersion" : 1
 }
